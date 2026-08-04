@@ -3,7 +3,7 @@
 Build an end-to-end data analytics project using Python (Pandas), PostgreSQL, SQL, and Power BI on Rapido ride-booking data.
 
 ## Dataset Used
-- <a href="https://github.com/VarshithDev/AP_College_Data_Analysis_Dashboard/blob/main/AP_Top_100_project_data.xlsx">Dataset</a>
+- <a href="https://github.com/VarshithDev/rapido_data_analytics/blob/main/rapido_data.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 ### Revenue Analysis
@@ -75,7 +75,8 @@ Business Insights & Decision Support
 ### Performance Overview:
 - Provides a high-level overview of business performance by tracking revenue, bookings, fleet contribution, fulfillment rate, and hourly booking trends.
 
-<img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/2cfbc18b-59a9-42d2-99d2-4a991120939c" />
+<img width="1561" height="730" alt="image" src="![Uploading Performance Overview.png…]()
+" />
 
 ### Operational Efficiency & Time Congestion:
 - Analyzes operational efficiency through trip duration, travel distance, network speed, congestion metrics, and hourly cancellation patterns.
