@@ -75,8 +75,7 @@ Business Insights & Decision Support
 ### Performance Overview:
 - Provides a high-level overview of business performance by tracking revenue, bookings, fleet contribution, fulfillment rate, and hourly booking trends.
 
-<img width="1561" height="730" alt="image" src="![Uploading Performance Overview.png…]()
-" />
+<img width="1561" height="730" alt="image" src="<img width="1304" height="737" alt="image" src="https://github.com/user-attachments/assets/e6608119-fd1b-4fb9-b835-f289af64147c" />
 
 ### Operational Efficiency & Time Congestion:
 - Analyzes operational efficiency through trip duration, travel distance, network speed, congestion metrics, and hourly cancellation patterns.
