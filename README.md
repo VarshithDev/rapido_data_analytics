@@ -95,16 +95,27 @@ Business Insights & Decision Support
 
 ## Project Insights
 💰 Generated a **total gross revenue of ₹25M** from approximately 50K successful ride bookings, reflecting strong business performance.
+
 🚖 **Bike services emerged as the highest revenue-contributing fleet**, indicating strong customer preference for economical transportation.
+
 📈 Achieved an **overall ride fulfillment rate of 90%**, demonstrating efficient ride allocation and successful order completion.
+
 ❌ Identified **nearly ₹3M in revenue loss due to ride cancellations**, highlighting opportunities to improve operational efficiency.
+
 ⏰ Peak booking hours were identified through hourly demand analysis, enabling optimized driver allocation during high-demand periods.
+
 🚦 Network speed and trip duration analysis revealed their direct impact on ride completion and customer experience.
+
 🛣️ **Gridlock incident analysis** helped uncover traffic congestion patterns affecting operational performance and service quality.
+
 📊 **Fleet-wise performance comparison** provided insights into revenue contribution, booking distribution, and operational efficiency across different ride categories.
+
 🔍 **AI-powered Decomposition Tree analysis identified the root causes of revenue loss** by analyzing service type, payment method, pickup location, destination, and day type.
+
 💳 Payment method analysis highlighted customer payment preferences and their influence on ride cancellations and revenue generation.
+
 📅 **Time-series forecasting predicted business trends for the next seven days**, supporting proactive resource planning and operational decision-making.
+
 🚀 Developed an end-to-end analytics pipeline using Python (Pandas), PostgreSQL, SQL, and Power BI, transforming raw ride-booking data into interactive business intelligence dashboards.
 
 ## 🎯 Final Conclusion
