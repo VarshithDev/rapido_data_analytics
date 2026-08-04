@@ -75,22 +75,22 @@ Business Insights & Decision Support
 ### Performance Overview:
 - Provides a high-level overview of business performance by tracking revenue, bookings, fleet contribution, fulfillment rate, and hourly booking trends.
 
-<img width="1561" height="730" alt="image" src="<img width="1304" height="737" alt="image" src="https://github.com/user-attachments/assets/e6608119-fd1b-4fb9-b835-f289af64147c" />
+<img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/e6608119-fd1b-4fb9-b835-f289af64147c" />
 
 ### Operational Efficiency & Time Congestion:
 - Analyzes operational efficiency through trip duration, travel distance, network speed, congestion metrics, and hourly cancellation patterns.
  
-<img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/2cfbc18b-59a9-42d2-99d2-4a991120939c" />
+<img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/911ccb9e-75f1-4ab7-8fa2-83772c073532" />
 
 ### Diagnostic Analysis:
 - Identifies the root causes of business metrics using AI-powered decomposition analysis across services, payment methods, locations, and day types.
 
-<img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/2cfbc18b-59a9-42d2-99d2-4a991120939c" />
+<img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/6ce7eb80-a051-4a6c-b92e-6a290fa84d0d" />
 
 ### Predictive Analysis:
 - Forecasts key business metrics for the next seven days using Power BI predictive analytics to support proactive decision-making.
 
-<img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/2cfbc18b-59a9-42d2-99d2-4a991120939c" />
+<img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/f9e6189e-bac8-4751-8b61-ef3a71706c17" />
 
 
 ## Project Insights
