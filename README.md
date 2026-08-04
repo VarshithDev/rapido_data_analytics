@@ -36,7 +36,7 @@ Build an end-to-end data analytics project using Python (Pandas), PostgreSQL, SQ
 - What is the expected confidence interval for the forecast?
 - How can future operational planning be improved using forecasted trends?
 
-Dashboard Interaction <a href="https://github.com/VarshithDev/AP_College_Data_Analysis_Dashboard/blob/main/Dashboard/Home%20Page.png">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/VarshithDev/rapido_data_analytics/tree/main/Dashboard">View Dashboard</a>
 
 ## Process
 Kaggle Dataset
